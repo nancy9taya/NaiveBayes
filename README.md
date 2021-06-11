@@ -4,7 +4,7 @@ Naive Bayes from scratch for symptoms corona virus dataset in R
 ## MapReduce
 Here we using Hadoop MapReduce in java to calculte the occurance of each attrbute give each class 
 the code is here:![NaiveBayesMapReduce](https://github.com/nancy9taya/NaiveBayes/blob/main/NaiveBayes.java)
-the output is here: ![OutputMapReduce](https://github.com/nancy9taya/NaiveBayes/blob/main/train_hadoop.txt)
+the output is here: ![OutputMapReduce](https://github.com/nancy9taya/NaiveBayes/blob/main/Hadoop_train70.txt)
 
 ## preprocessing 
 The dataset contained  27 columns, comprised of 11 symptoms, 5 columns of different age groups (0-9, 10-19, 20-24, 25-59, 60-),  3 columns of gender (male, female, transgender),
